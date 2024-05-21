@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "horizontal-ally-424002-h0",
+  "private_key_id": "5a2bc811e849331eb1fc6097ce01ed166f5d7c71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkySHInGoYVUvx\n7S6bzSjYDlmpPRN11YZVJ0eCYHUO1hH4W7fUF+6VuvPZ1Zwhep3CXaj/Udp5sC0W\nW8qp9WjB4xPWiot17wYjv1sB8EtV870EtWzQHW61C2N+FfwXmWyJIqq7fPjJwU2Z\niDm/icNWY+DJmwzOZSgJ+2JA39Z3zCsgTwsVA/k/yROMpDnNxtphEvW6imwUeI+e\nZtNzKvcF9lIowhVSOYxzWl2/oaHOG5guwMT9ugOfMXsiLJW9abvRU4cXKyq+0duf\n0ekb7wraU21ah89rg15KMrVGzEYVrJy65384N4u/SZB3jqclkQKiQu8IqtfQb0LY\n4gvzv2mZAgMBAAECggEABKIUggRiHLLkG9G8TdD79RMtEp4BWrWUj63t+ZE9beTb\n8g7oZeZtgDio7huA6zoOjsCGZax9/iBTdVj5ftX6ymcPRoRPtDdgTr6RYmrIrcFY\ns6ywwys2ZSNyDJzaDuCpp8W09+iuZuinGIoSoZarXNXQyKpWkla9DYbLrOpHX1om\nRM+KDbl2gF5qfeaZxqZCvtcWgofOozB1zjiUBbPuPKoxD6iPFnq0KojlkWs81tRS\nTC+5Wub92nDrxlVHczrIP8Fbf2yroXMCL/dqfh+PGDjKnvhGmozDnABIJL1Fka79\nAaLfSxqMkHwFxI7c5jAY7cP8hIWH2CqKMjezy28dmQKBgQDfZPB4kyxieyZfcOx3\nfWnF6/7F0HZL2z4scoapPIo5M51LMW1sjKpnBzsezfQwkgojPcdWPqGqxCt1f3AA\njN+LFst7xg4qw4bZs0keFlgxZIA9AQWMkGJ4pcEAcBo3n7zZH+oXWIqtolPtq6OC\ngief63Fq+hU9wR3jJpadcKOBJQKBgQC81kyPVa3/U7na2xKEEWITgCWiRxkxgEcU\nlznPnHsPVMEVtrD5cg+WYTUNvQ9DcAu0C2r2kElp6ekatTyboPtkZ9zYoKC6f+IY\ngPKiYQxYQ+ASXSKoFNfHBVf+eBXgC0yVTeZsJ3cCMNglxHUoNCsPE7IRdS2Z0vfu\nbpmMgJS+ZQKBgQCAW2cwYJ/oFgp+XEwCfDUCXA8PajAOdfLLZyKoqvhg1Z9TTRsq\ne8iNWkJF+OCN59ubVCvtCh+qFv1Bje+04TywlnBkte/98krRW4pvlzclajGk26ls\nkqmB2PuEXOUzgLzppMTElUNZcSP4M97HZjGOWaHZbcg2q3eYxNtVqxrHYQKBgEkC\n5mkI7JRqz9Ixn7AWdIArrOFYcgI0ocbxTXXa/62GzHzTvQtFMYeoH/Ym4g7l9HBx\ndbLNSMU9nlYoOr3FeU1x5u6O9HYHWei1epqTwU0jOTCAeBTasi8N/t6xmWudkser\nberlO1tKfVfk5JNd0EQtDk03rCDsc9XpR08Oq/QNAoGBAMPFmG1FySLkrnD1FDkU\nr0BJyA+3lo9Qwyioh05ntNTI9gMAxxGfssmg1kCDVBpjsqbf7myIbyZC9f2U3RSc\nsJKHlMMZuqA+16GzBGnhHoQogVXQB0fX2N6PZ22AKhZ7N+1iugpW+UNOEwgUxcAZ\nIW8MWuaTWYnFPxB3CZXNwZew\n-----END PRIVATE KEY-----\n",
+  "client_email": "indiamart-integration-857@horizontal-ally-424002-h0.iam.gserviceaccount.com",
+  "client_id": "106284254707886771763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/indiamart-integration-857%40horizontal-ally-424002-h0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
